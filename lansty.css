@@ -1,0 +1,43 @@
+*{
+/*background-image: linear-gradient(to right,#0B2447 , #576CBC);*/
+background-color: #576CBC;
+
+}
+.container{
+    border: #576CBC;
+    border-radius: 0%;
+    justify-content: center;
+    background-color: #0B2447;
+    
+}
+.hero{
+    height: 30%;
+    width: 30%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.tracks{
+    border-radius: 0%;
+    justify-content: center;
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.head{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 450;
+    text-shadow: black 20%;
+    color: azure;
+}
+
+.text{
+    text-decoration: none;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 450;
+    color: azure;
+}
+a:link {
+    color: green;
+}
